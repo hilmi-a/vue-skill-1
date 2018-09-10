@@ -1,0 +1,546 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curren",
+				"currentLevel"
+			],
+			[
+				"leve",
+				"levels"
+			],
+			[
+				"sco",
+				"score"
+			],
+			[
+				"score",
+				"scoreDisplay"
+			],
+			[
+				"wo",
+				"words"
+			],
+			[
+				"sho",
+				"showWord"
+			],
+			[
+				"time",
+				"timeDisplay"
+			],
+			[
+				"els",
+				"else_if"
+			],
+			[
+				"rand",
+				"randIndex"
+			],
+			[
+				"function",
+				"Function\t( paramsAndBody_..: string ): Function Function"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-attachment"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"cty",
+				"ctype_alpha"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"col-md",
+				"col-md-10 \tBootstrap 3 Class"
+			],
+			[
+				"tes",
+				"text-justify \tBootstrap 3 Class"
+			],
+			[
+				"im",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"glyphicon-us",
+				"glyphicon-user \tBootstrap 3 Class"
+			],
+			[
+				"glyphicon-lo",
+				"glyphicon-log-in \tBootstrap 3 Class"
+			],
+			[
+				"btn-s",
+				"btn-sm \tBootstrap 3 Class"
+			],
+			[
+				"co",
+				"collapse \tBootstrap 3 Class"
+			],
+			[
+				"navbar-t",
+				"navbar-toggle \tBootstrap 3 Class"
+			],
+			[
+				"navbar-fix",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"con",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ar",
+				"arrayNo1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 153.0,
+		"last_filter": "lorem",
+		"selected_items":
+		[
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Install Package Control"
+			],
+			[
+				"snippet",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"pro",
+				"Project: Edit Project"
+			],
+			[
+				"seth",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 129.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/exercise/one-page-crud",
+		"/D/Project/Web/Vue/vue-skills"
+	],
+	"file_history":
+	[
+		"/D/Games/TSEV Skyrim LE/Logs/Script/EditorPapyrus.3.log",
+		"/C/xampp/htdocs/exercise/SpeedTypeGame/index.html",
+		"/D/Project/Web/Tinkering/SpeedTypeGame/css/bootstrap.css",
+		"/D/Project/Web/Tinkering/SpeedTypeGame/css/bootstrap.min.css",
+		"/D/Games/Mod Organizer 2/mods/Truly Abosorb Dragon Souls/Scripts/TADSShout.pex",
+		"/C/Users/Altoyir/AppData/Local/ModOrganizer/Skyrim/logs/usvfs-2018-06-17_07-32-20.log",
+		"/D/Games/TSEV Skyrim LE/Logs/Script/EditorPapyrus.0.log",
+		"/D/Games/Mod Organizer/mods/HDT Physics Extensions/skse/plugins/hdtPhysicsExtensionsDefaultBBP.xml",
+		"/D/LAMA/H S/HSBatch.bat",
+		"/D/Games/Mod Organizer/mods/Wench Body -Bodyslide 2 Preset-/CalienteTools/Bodyslide/SliderPresets/Wench Body Clothes.xml",
+		"/D/Games/Mod Organizer/mods/Josie Body - CBBE BodySlide Preset/CalienteTools/BodySlide/SliderPresets/Josie CBBE Body - Outfit.xml",
+		"/D/Games/Mod Organizer/mods/Josie Body - CBBE BodySlide Preset/CalienteTools/BodySlide/SliderPresets/Josie Ashara Underarmor.xml",
+		"/D/Games/Mod Organizer/mods/Josie Body - CBBE BodySlide Preset/CalienteTools/BodySlide/SliderPresets/Josie After School.xml",
+		"/C/Users/Altoyir/Videos/Videos.rar",
+		"/D/Tingkering/bootstrap-ex-2/css/custom.css",
+		"/D/Tingkering/bootstrap-ex-2/home.html",
+		"/D/Tingkering/Email Newsletter/index.html",
+		"/C/Users/Altoyir/Videos/Karmasutra/renpy/common/00console.rpy",
+		"/C/Users/Altoyir/Videos/Karmasutra/renpy/common/00library.rpy",
+		"/C/Users/Altoyir/Videos/Karmasutra/game/images.rpa",
+		"/C/Users/Altoyir/Videos/Karmasutra/renpy/config.py",
+		"/D/Games/Mod Organizer/mods/TES5Edit/EditTips.txt",
+		"/D/Games/Mod Organizer/mods/BodySlide and Outfit Studio/CalienteTools/BodySlide/SliderGroups/UnifiedUNPGroups.xml",
+		"/D/Games/Mod Organizer/mods/Skyrim -Community- Uncapper/SKSE/Plugins/SKSE_Elys_Uncapper.ini",
+		"/D/Games/Mod Organizer/mods/Ordinator - Perks of Skyrim/Perk List.txt",
+		"/D/Tingkering/bootstrap-exer/7-Alerts.html",
+		"/D/Tingkering/bootstrap-exer/8-button.html",
+		"/D/Tingkering/bootstrap-exer/css/custom.css",
+		"/D/Tingkering/bootstrap-exer/index.html",
+		"/D/Tingkering/bootstrap-exer/6-wells.html",
+		"/D/Tingkering/bootstrap-exer/5-jumbotron.html",
+		"/C/Users/Altoyir/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/Tingkering/nodeJS/main.js",
+		"/D/Tingkering/bootstrap-exer/bootstrap-exer.sublime-project",
+		"/C/Users/Altoyir/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Altoyir/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/D/b13a/Dam UCT/js/app.js",
+		"/D/Tingkering/nodeJS/nodeJS-beginning.sublime-project",
+		"/D/Tingkering/main.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pre",
+			"npc",
+			"belly",
+			"pre",
+			"config",
+			"#",
+			"data-line",
+			"tr",
+			"vsComputer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vue-crash-course.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"<html>"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
