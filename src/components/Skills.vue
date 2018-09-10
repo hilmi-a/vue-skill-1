@@ -2,6 +2,12 @@
   <div class="hello">
     <div class="holder">
       <ul>
+        <form @submit.prevent="addSkill">
+        <input type="text" placeholder="Enter the Skill you have..." v-model="skill" v-validate="'min:5'" name="skill">
+        <p class="alert" v-if="errors.has('skill')">{{ errors.first('skill')}}</p>
+        <!-- {{ skill }} -->
+       <!--  <input type="checkbox" id="checkbox" v-model="checked"> -->
+        </form>
         <li v-for="(data,index) in skills" :key = 'index'>{{ data.skill }}</li>
 
 
@@ -22,6 +28,8 @@ export default {
   name: 'Skills',
   data(){
     return {
+      // checked: false,
+      skill: '',
       skills : [
         { "skill" : "vue.js"},
         { "skill" : "Front End Developer"}
@@ -32,6 +40,20 @@ export default {
         alert:false
       }
     }
+  },
+  methods: {
+    addSkill() {
+      this.$validator.validateAll().then((result) => {
+        if (result) {
+          this.skills.push({skill: this.skill});
+      this.skill= '';
+      // console.log('this checkbox value is : '+this.checked);
+        }else {
+          console.log('Not valid');
+        }
+      })
+      
+    }
   }
 }
 </script>
@@ -40,8 +62,10 @@ export default {
 <style scoped>
   .alert {
     background-color: #eeeeee;
-    width: 100%;
-    height: 35px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 5px;
+    margin-top: -20px;
   }
   .another-class {
     border: 2px solid blue;
@@ -73,5 +97,14 @@ export default {
 
   .container {
     box-shadow: 0px 0px 40px lightgray;
+  }
+
+  input {
+    width: calc(100% - 40px);
+    border:0;
+    padding: 20px;
+    font-size: 1.3em;
+    background: #323333;
+    color: #687f7f;
   }
 </style>
