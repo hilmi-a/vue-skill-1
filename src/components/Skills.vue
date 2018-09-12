@@ -4,14 +4,15 @@
       <ul>
         <form @submit.prevent="addSkill">
         <input type="text" placeholder="Enter the Skill you have..." v-model="skill" v-validate="'min:5'" name="skill">
-        <transition name="alert-in">
+        <transition name="alert-in" enter-active-class="animated flipInX" leave-active-class="animated flipOutX">
         <p class="alert" v-if="errors.has('skill')">{{ errors.first('skill')}}</p>
         </transition>
         <!-- {{ skill }} -->
        <!--  <input type="checkbox" id="checkbox" v-model="checked"> -->
         </form>
-        <li v-for="(data,index) in skills" :key = 'index'>{{ data.skill }}</li>
-
+          <transition-group name="list" enter-active-class="animated bounceInUp" leave-active-class="animated bounceOutDown">
+            <li v-for="(data,index) in skills" :key = 'index'>{{ data.skill }}</li>
+          </transition-group>
 
       </ul>
 
@@ -62,6 +63,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+@import "https://cdn.jsdelivr.net/npm/animate.css@3.5.2";
   .alert {
     background-color: #eeeeee;
     font-weight: bold;
