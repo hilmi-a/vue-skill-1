@@ -308,39 +308,30 @@
 	"buffers":
 	[
 		{
-			"file": "notes.txt",
-			"settings":
-			{
-				"buffer_size": 76,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "src/components/Skills.vue",
 			"settings":
 			{
-				"buffer_size": 2311,
+				"buffer_size": 3239,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/main.js",
+			"contents": "function jawab1(){\n    var i=1;\n    var list=[];\n    for (i=1;i<=100;i++){\n        if((i % 3==0)&&(i % 5==0)){\n        console.log(\"BINGO\");\n        }else if(i % 3==0){\n            console.log(\"THREE\");\n        }else if(i % 5==0){\n            console.log(\"FIVE\");\n        }else{\n            console.log(i);\n    }\n}\n\n\n",
 			"settings":
 			{
-				"buffer_size": 197,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"buffer_size": 317,
+				"line_ending": "Windows",
+				"name": "function jawab1(){"
 			}
 		},
 		{
-			"file": "src/App.vue",
+			"contents": "a = 1 = 2\ne = 14",
 			"settings":
 			{
-				"buffer_size": 535,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"buffer_size": 16,
+				"line_ending": "Windows",
+				"name": "a = 1 = 2"
 			}
 		}
 	],
@@ -434,17 +425,12 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/xampp/htdocs/exercise/one-page-crud",
-		"/D/Project/Web/Vue/vue-skills",
-		"/D/Project/Web/Vue/vue-skills/src",
-		"/D/Project/Web/Vue/vue-skills/src/components"
-	],
 	"file_history":
 	[
-		"/D/Project/Web/Vue/vue-skills/src/components/skills.css",
 		"/D/Project/Web/Vue/vue-skills/src/App.vue",
+		"/D/Project/Web/Vue/vue-skills/src/main.js",
+		"/D/Project/Web/Vue/vue-skills/notes.txt",
+		"/D/Project/Web/Vue/vue-skills/src/components/skills.css",
 		"/D/Games/TSEV Skyrim LE/Logs/Script/EditorPapyrus.3.log",
 		"/C/xampp/htdocs/exercise/SpeedTypeGame/index.html",
 		"/D/Project/Web/Tinkering/SpeedTypeGame/css/bootstrap.css",
@@ -533,106 +519,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "notes.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 76,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								74,
-								74
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "src/components/Skills.vue",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2311,
+						"buffer_size": 3239,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1453,
-								1453
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/vuejs-sublime-complete-master/vue.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 445.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 197,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								197,
-								197
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "src/App.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 535,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								525,
-								525
+								1569,
+								1569
 							]
 						],
 						"settings":
@@ -646,6 +545,64 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function jawab1(){",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"auto_name": "a = 1 = 2",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
